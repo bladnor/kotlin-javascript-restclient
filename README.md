@@ -1,1 +1,1 @@
-# A basic rest client with Kotlin JavaScript
+# A basic REST client with Kotlin JavaScript
